@@ -1,0 +1,11 @@
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\obj\Debug\game.Properties.Resources.resources
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\obj\Debug\SdlDotNetExamples.CDPlayer.CDPlayerApp.resources
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\obj\Debug\game.SdlDotNetCDPlayer.Properties.Resources.resources
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\bin\Debug\game.exe
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\bin\Debug\game.pdb
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\bin\Debug\SdlDotNet.dll
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\bin\Debug\Tao.Sdl.dll
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\obj\Debug\game.exe
+C:\Users\eto\Documents\Visual Studio 2008\Projects\pokemonmmo\game\obj\Debug\game.pdb
